@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Ciemne tło -->
+  <rect x="0" y="0" width="512" height="512" fill="#23262b" />
+  
+  <!-- Wyśrodkowany zielony kwadrat -->
+  <rect x="49" y="49" width="414" height="414" fill="#1e8035" />
+  
+  <!-- Ostre, wyśrodkowane wektorowe litery NV -->
+  <g fill="#ffffff">
+    <!-- Litera N -->
+    <polygon points="28,139 106,139 197,285 197,139 257,139 257,373 179,373 88,227 88,373 28,373" />
+    <!-- Litera V -->
+    <polygon points="278,139 340,139 381,288 422,139 484,139 416,373 346,373" />
+  </g>
+</svg>
